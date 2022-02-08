@@ -24,7 +24,7 @@ export default [
       city: "Seattle",
       averagePrice: 135,
       propertyCount: 63,
-      imageUrl: "/img/seattle.jpg",
+      imageUrl: "/img/seeattle.jpg",
       imageAlt: "Seattle skyline",
     },
     {
