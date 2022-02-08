@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+.btn{
+    @apply inline-block px-4 py-2 bg-indigo-500 hover:bg-indigo-400 focus:outline-none focus:ring-offset-2 
+    active:bg-indigo-600  sm:hover:bg-green-300  hover:translate-y-0.5 transform rounded-lg   shadow-lg text-white uppercase tracking-wider font-semibold  sm:text-base ;
+}
+
+
+
+
+@tailwind utilities;
+
+
