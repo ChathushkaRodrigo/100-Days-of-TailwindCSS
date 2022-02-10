@@ -1,7 +1,7 @@
 module.exports = {
   content: ["./public/**/*.{html,js}"],
   theme: {
-container: {
+container : {
   center:true,
   padding:'2rem'
 },
